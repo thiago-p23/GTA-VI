@@ -6,18 +6,6 @@
 
 I built this project to practice and demonstrate core backend concepts, clean API architecture, endpoint organization, and external integrations.
 
-## Table of Contents
-
-- [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
-- [Running Locally](#running-locally)
-- [API Documentation](#api-documentation)
-- [Usage Examples](#usage-examples)
-- [HTTP Methods & Status Codes](#http-methods--status-codes)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [Author](#author)
-
 ---
 
 ## Tech Stack
