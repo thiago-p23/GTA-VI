@@ -1,11 +1,5 @@
 # GTA-VI API
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PROJECT-GTA--VI-FF69B4?style=for-the-badge" alt="GTA-VI Project" />
-  <img src="https://img.shields.io/badge/API-REST-blue?style=for-the-badge" alt="REST API" />
-  <img src="https://img.shields.io/badge/DOCUMENTATION-SWAGGER-green?style=for-the-badge" alt="Swagger Documentation" />
-</p>
-
 ## About the Project
 
 **GTA-VI API** is a RESTful backend built to serve structured data over HTTP using standard methods and JSON. 
@@ -43,9 +37,3 @@ Make sure you have the following installed on your machine:
 - Maven or Gradle (depending on your local setup)
 - An IDE like IntelliJ IDEA, Eclipse, or VS Code
 - Postman, Insomnia, or cURL (optional, for testing)
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/dev-LuccaMonteiro/GTA-VI.git](https://github.com/dev-LuccaMonteiro/GTA-VI.git)
